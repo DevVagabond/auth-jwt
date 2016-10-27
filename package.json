@@ -1,0 +1,28 @@
+{
+  "name": "auth-jwt",
+  "version": "1.0.0",
+  "description": "jwt authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawonkanji/auth-jwt.git"
+  },
+  "dependencies": {
+    "jwt-simple": "^0.5.0",
+    "mongoose": "~4.4.7",
+    "morgan": "~1.6.1"
+  },
+  "keywords": [
+    "auth",
+    "jwt"
+  ],
+  "author": "shawon kanji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawonkanji/auth-jwt/issues"
+  },
+  "homepage": "https://github.com/shawonkanji/auth-jwt#readme"
+}
