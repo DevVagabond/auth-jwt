@@ -20,7 +20,7 @@
     "jwt"
   ],
   "author": "shawon kanji",
-  "license": "ISC",
+  "license": "LicenseRef-LICENSE",
   "bugs": {
     "url": "https://github.com/shawonkanji/auth-jwt/issues"
   },
